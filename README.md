@@ -1,11 +1,10 @@
 # 📦 Packaging Analysis
+[🌐 Демо](https://anatoliy-shi.github.io/packaging-analysis/) 
 
 Аналитический дашборд для производственной отчётности упаковочного цеха.
 
 ![Дашборд](docs/dashboard.png)
 
----
-[🌐 Демо](https://anatoliy-shi.github.io/packaging-analysis/) 
 ---
 
 ## 🎯 О проекте
