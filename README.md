@@ -5,8 +5,7 @@
 ![Дашборд](docs/dashboard.png)
 
 ---
-[🌐 Демо](https://anatoliy-shi.github.io/packaging-analysis/) · 
-[📂 Код](https://github.com/Anatoliy-Shi/packaging-analysis)
+[🌐 Демо](https://anatoliy-shi.github.io/packaging-analysis/) 
 ---
 
 ## 🎯 О проекте
