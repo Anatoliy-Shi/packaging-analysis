@@ -5,6 +5,8 @@
 ![Дашборд](docs/dashboard.png)
 
 ---
+https://anatoliy-shi.github.io/packaging-analysis/
+---
 
 ## 🎯 О проекте
 
