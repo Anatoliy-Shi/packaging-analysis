@@ -162,5 +162,5 @@ MIT — см. [LICENSE](LICENSE)
 
 ## 👤 Автор
 
-**Анатолий Ши**
+**Анатолий Шипилов**
 - GitHub: [@Anatoliy-Shi](https://github.com/Anatoliy-Shi)
