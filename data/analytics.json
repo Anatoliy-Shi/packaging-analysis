@@ -1,0 +1,367 @@
+{
+  "generated_at": "2026-09-12T18:47:44",
+  "period": {
+    "from": "2024-03-01",
+    "to": "2024-09-30",
+    "days": 214
+  },
+  "summary": {
+    "total_kg": 1578600.0,
+    "total_tons": 1578.6,
+    "total_downtime_minutes": 17718.0,
+    "total_downtime_hours": 295.3,
+    "shift_count": 5,
+    "line_count": 5,
+    "row_count": 1016
+  },
+  "volume_by_shift": [
+    {
+      "shift": 1,
+      "tons": 346.1
+    },
+    {
+      "shift": 2,
+      "tons": 241.9
+    },
+    {
+      "shift": 3,
+      "tons": 430.2
+    },
+    {
+      "shift": 4,
+      "tons": 298.6
+    },
+    {
+      "shift": 5,
+      "tons": 261.8
+    }
+  ],
+  "downtime_by_shift": [
+    {
+      "shift": 1,
+      "hours": 35.1
+    },
+    {
+      "shift": 2,
+      "hours": 129.1
+    },
+    {
+      "shift": 3,
+      "hours": 28.8
+    },
+    {
+      "shift": 4,
+      "hours": 42.6
+    },
+    {
+      "shift": 5,
+      "hours": 59.7
+    }
+  ],
+  "combined_by_shift": [
+    {
+      "shift": 1,
+      "tons": 346.1,
+      "hours": 35.1
+    },
+    {
+      "shift": 2,
+      "tons": 241.9,
+      "hours": 129.1
+    },
+    {
+      "shift": 3,
+      "tons": 430.2,
+      "hours": 28.8
+    },
+    {
+      "shift": 4,
+      "tons": 298.6,
+      "hours": 42.6
+    },
+    {
+      "shift": 5,
+      "tons": 261.8,
+      "hours": 59.7
+    }
+  ],
+  "by_month": [
+    {
+      "year": 2024,
+      "month": 3,
+      "label": "Мар 2024",
+      "tons": 242.2,
+      "hours": 33.4
+    },
+    {
+      "year": 2024,
+      "month": 4,
+      "label": "Апр 2024",
+      "tons": 207.1,
+      "hours": 37.9
+    },
+    {
+      "year": 2024,
+      "month": 5,
+      "label": "Май 2024",
+      "tons": 241.5,
+      "hours": 39.2
+    },
+    {
+      "year": 2024,
+      "month": 6,
+      "label": "Июн 2024",
+      "tons": 253.4,
+      "hours": 53.8
+    },
+    {
+      "year": 2024,
+      "month": 7,
+      "label": "Июл 2024",
+      "tons": 198.3,
+      "hours": 36.5
+    },
+    {
+      "year": 2024,
+      "month": 8,
+      "label": "Авг 2024",
+      "tons": 197.7,
+      "hours": 50.0
+    },
+    {
+      "year": 2024,
+      "month": 9,
+      "label": "Сен 2024",
+      "tons": 238.4,
+      "hours": 44.5
+    }
+  ],
+  "by_month_shift": [
+    {
+      "year": 2024,
+      "month": 3,
+      "label": "Мар 2024",
+      "shifts": [
+        {
+          "shift": 1,
+          "tons": 49.2,
+          "hours": 3.1
+        },
+        {
+          "shift": 2,
+          "tons": 33.3,
+          "hours": 14.9
+        },
+        {
+          "shift": 3,
+          "tons": 65.8,
+          "hours": 4.7
+        },
+        {
+          "shift": 4,
+          "tons": 61.2,
+          "hours": 4.5
+        },
+        {
+          "shift": 5,
+          "tons": 32.7,
+          "hours": 6.2
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "month": 4,
+      "label": "Апр 2024",
+      "shifts": [
+        {
+          "shift": 1,
+          "tons": 36.6,
+          "hours": 5.5
+        },
+        {
+          "shift": 2,
+          "tons": 25.8,
+          "hours": 14.6
+        },
+        {
+          "shift": 3,
+          "tons": 62.7,
+          "hours": 4.2
+        },
+        {
+          "shift": 4,
+          "tons": 37.7,
+          "hours": 7.5
+        },
+        {
+          "shift": 5,
+          "tons": 44.3,
+          "hours": 6.1
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "month": 5,
+      "label": "Май 2024",
+      "shifts": [
+        {
+          "shift": 1,
+          "tons": 54.2,
+          "hours": 6.5
+        },
+        {
+          "shift": 2,
+          "tons": 35.2,
+          "hours": 14.0
+        },
+        {
+          "shift": 3,
+          "tons": 73.5,
+          "hours": 3.3
+        },
+        {
+          "shift": 4,
+          "tons": 33.2,
+          "hours": 4.6
+        },
+        {
+          "shift": 5,
+          "tons": 45.4,
+          "hours": 10.8
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "month": 6,
+      "label": "Июн 2024",
+      "shifts": [
+        {
+          "shift": 1,
+          "tons": 54.2,
+          "hours": 6.6
+        },
+        {
+          "shift": 2,
+          "tons": 41.1,
+          "hours": 24.7
+        },
+        {
+          "shift": 3,
+          "tons": 53.2,
+          "hours": 4.2
+        },
+        {
+          "shift": 4,
+          "tons": 59.0,
+          "hours": 7.7
+        },
+        {
+          "shift": 5,
+          "tons": 45.9,
+          "hours": 10.6
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "month": 7,
+      "label": "Июл 2024",
+      "shifts": [
+        {
+          "shift": 1,
+          "tons": 51.1,
+          "hours": 3.2
+        },
+        {
+          "shift": 2,
+          "tons": 31.8,
+          "hours": 15.8
+        },
+        {
+          "shift": 3,
+          "tons": 42.8,
+          "hours": 2.9
+        },
+        {
+          "shift": 4,
+          "tons": 33.5,
+          "hours": 5.7
+        },
+        {
+          "shift": 5,
+          "tons": 39.1,
+          "hours": 8.9
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "month": 8,
+      "label": "Авг 2024",
+      "shifts": [
+        {
+          "shift": 1,
+          "tons": 41.1,
+          "hours": 4.0
+        },
+        {
+          "shift": 2,
+          "tons": 33.0,
+          "hours": 24.2
+        },
+        {
+          "shift": 3,
+          "tons": 62.7,
+          "hours": 4.4
+        },
+        {
+          "shift": 4,
+          "tons": 36.0,
+          "hours": 8.4
+        },
+        {
+          "shift": 5,
+          "tons": 24.9,
+          "hours": 9.0
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "month": 9,
+      "label": "Сен 2024",
+      "shifts": [
+        {
+          "shift": 1,
+          "tons": 59.7,
+          "hours": 6.2
+        },
+        {
+          "shift": 2,
+          "tons": 41.7,
+          "hours": 20.9
+        },
+        {
+          "shift": 3,
+          "tons": 69.5,
+          "hours": 5.1
+        },
+        {
+          "shift": 4,
+          "tons": 38.0,
+          "hours": 4.2
+        },
+        {
+          "shift": 5,
+          "tons": 29.5,
+          "hours": 8.1
+        }
+      ]
+    }
+  ],
+  "_demo": true,
+  "_note": "Синтетические данные. Не связаны с реальным производством."
+}

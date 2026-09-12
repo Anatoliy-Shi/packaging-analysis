@@ -1,0 +1,41 @@
+# ============================
+# Python
+# ============================
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# ============================
+# Node / frontend
+# ============================
+node_modules/
+dist/
+.vite/
+
+# ============================
+# Данные — НИКОГДА НЕ ПУШИТЬ
+# ============================
+backend/*.xlsm
+backend/*.xlsx
+backend/output/
+backend/local_config.py
+
+# CSV с реальными данными (кроме requirements.txt)
+*.csv
+!requirements.txt
+
+# Синтетический JSON — МОЖНО пушить
+!frontend/public/data/analytics.json
+
+# ============================
+# IDE / OS
+# ============================
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
